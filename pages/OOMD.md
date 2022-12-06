@@ -162,7 +162,8 @@
 						- if it represents a cyclic class?
 						- any dead states that terminates cycle.?
 			- #### Application Analysis #card #application_analysis
-				-
+				- #### Application interaction model
+				- interaction modelling begins with
 		- ### Analysis model addresses the 3 aspects of objects:
 			- Static Structure of Objects (Class model)
 			- Interaction Among objects (Interaction model)
