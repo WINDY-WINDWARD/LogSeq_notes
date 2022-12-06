@@ -95,7 +95,8 @@
 							- <ins>Operations:</ins>
 							  If the name describes an operation that is applied to the objects and not manipulated in its own right, then it is not a class
 							- <ins>Roles:</ins>
-							  name of the class should reflect its intrinsic nature
+							  name of the class should reflect its intrinsic nature and not a role it plays in an association.
+							- <ins>Implementation Constructs: </ins>
 					- Prepare a data dictionary
 					- Find associations
 					- Find attributes of objects and links
