@@ -14,7 +14,11 @@
 					- <ins>Globalization:</ins> travel to observe business and cultural practices.
 			- ##### 2: Elaborating a concept
 				- who is the application for?
-				- clear understan
+				- clear understanding of stake holders
+				- problems solved
+				- why it is needed
+				- what will it be used for
+				- how will it work
 			- ##### 3: Preparing a Problem Statement
 			-
 			-
