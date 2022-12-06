@@ -187,9 +187,12 @@
 						- add variation and exception scenarios
 							- error cases or invalid values.
 						- find external event
-							-
+							- error cases or invalid values.
 						- prepare activity diagram for complex use case.
+							-
 						- organize actors and use cases.
+							- step is to organize use cases with relationships
+							  (include, extend and generalization)
 						- check against domain class model
 		- ### Analysis model addresses the 3 aspects of objects:
 			- Static Structure of Objects (Class model)
