@@ -87,7 +87,8 @@
 					- ##### Find Classes
 						- Finding Classes and Keeping the right classes
 							- <ins>Redundant classes :</ins>
-							  in case of redundant classes keep the one with most descriptive name eg: Customer and User (keep customer cause its more desc)
+							  in case of redundant classes keep the one with most descriptive name eg: Customer and User (keep customer cause its more descriptive)
+							- <ins>Irrelevant Classes:</ins> remove
 					- Prepare a data dictionary
 					- Find associations
 					- Find attributes of objects and links
