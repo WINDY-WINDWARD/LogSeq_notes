@@ -105,7 +105,8 @@
 						- describe the scope of classes within current problem
 						- describe associations, attributes, operations and enumeration values
 						-
-					- Find associations
+					- ##### Find associations
+						- A structural relatioship b/w two or more classes is an asso
 					- Find attributes of objects and links
 					- Organize and simplify classes using inheritance
 					- verify that access paths exist for likely queries.
