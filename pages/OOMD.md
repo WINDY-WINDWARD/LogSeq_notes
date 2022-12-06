@@ -20,5 +20,7 @@
 				- what will it be used for
 				- how will it work
 			- ##### 3: Preparing a Problem Statement
-			-
+				- Requirements and design decisions should not be
+				  mixed.
+				- The system is considerd
 			-
