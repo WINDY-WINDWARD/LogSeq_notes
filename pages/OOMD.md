@@ -112,6 +112,7 @@
 						- association is a reference from one class to another class
 						- often corresponds to verbs or verb phrases
 					- #### Find attributes of objects and links
+						- attributes are properties of objects
 						-
 					- Organize and simplify classes using inheritance
 					- verify that access paths exist for likely queries.
