@@ -86,7 +86,7 @@
 				- #### Step to construct a domain class model:
 					- ##### Find Classes
 						- Finding Classes and Keeping the right classes
-							-
+							- <ins>Redundant classes :</ins>
 					- Prepare a data dictionary
 					- Find associations
 					- Find attributes of objects and links
