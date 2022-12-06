@@ -1,5 +1,4 @@
 - # UNIT 3
-	-
 	- ## SYSTEM CONCEPTION
 	  collapsed:: true
 		-
@@ -80,7 +79,7 @@
 			- Data, Functional, and Behavioral models are divided to uncover greater detail
 			- Early models represent the essence of the problem, while later ones provide implementation details
 		- ### Analysis is Divided into Two sub stages:
-		  collapsed:: true
+			-
 			- #### Domain Analysis #card #domain_analysis
 			  collapsed:: true
 				- used to understand the project problem description and to translate the requirements of that project into software components of a solution.
@@ -163,6 +162,7 @@
 						- if it represents a cyclic class?
 						- any dead states that terminates cycle.?
 			- #### Application Analysis #card #application_analysis
+			  collapsed:: true
 				- #### Application interaction model
 					- interaction modelling begins with determining the overall boundary
 					- identify use cases and make scenario and use case diagram
