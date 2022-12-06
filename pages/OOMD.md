@@ -14,3 +14,4 @@
 					- <ins>Globalization:</ins> travel to observe business and cultural practices.
 			- ##### 2: Elaborating a concept
 				-
+				-
