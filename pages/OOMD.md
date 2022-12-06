@@ -162,7 +162,8 @@
 						- any dead states that terminates cycle.?
 			- #### Application Analysis #card #application_analysis
 				- #### Application interaction model
-				- interaction modelling begins with determining the overall boundary
+					- interaction modelling begins with determining the overall boundary
+					-
 		- ### Analysis model addresses the 3 aspects of objects:
 			- Static Structure of Objects (Class model)
 			- Interaction Among objects (Interaction model)
