@@ -168,34 +168,36 @@
 					- identify use cases and make scenario and use case diagram
 					- check against domain class model
 					- #### Steps to make Application Interaction Model
-						- Determine the system boundary
+						- ##### Determine the system boundary
 							- scope of the application
-						- find actors
+						- ##### find actors
 							- actors are external entities that interact with the system. EG: devices, humans, other systems
-						- find use-cases
+						- ##### find use-cases
 							- for each actor list the fundamentally different ways the actor can interact with the system.
 							- each use case should represent a kind of service that the system provides.
-						- find initial and final events
+						- ##### find initial and final events
 							- use cases do not represent the behavior correctly.
 							- so we have to use execution sequence diagram
-						- prepare normal scenarios
+						- ##### prepare normal scenarios
 							- a scenarios is a sequence of event among a set of interacting objects
 							- <ins>scenarios illustrate: </ins>
 							  Major interactions
 							  External display formats
 							  Information exchanges
-						- add variation and exception scenarios
+						- ##### add variation and exception scenarios
 							- error cases or invalid values.
-						- find external event
+						- ##### find external event
 							- error cases or invalid values.
-						- prepare activity diagram for complex use case.
+						- ##### prepare activity diagram for complex use case.
 							- Sequence diagram capture the dialog and interplay
 							  between actors, but they do not clearly show
 							  alternatives and decisions.
-						- organize actors and use cases.
+						- ##### organize actors and use cases.
 							- step is to organize use cases with relationships
 							  (include, extend and generalization)
-						- check against domain class model
+						- ##### check against domain class model
+							- Cross check the application and domain model to
+							  ensure that there are no inconsistencies
 		- ### Analysis model addresses the 3 aspects of objects:
 			- Static Structure of Objects (Class model)
 			- Interaction Among objects (Interaction model)
