@@ -118,7 +118,7 @@
 						- organize classes using inheritance
 						- Two methods for adding inheritance
 							- Bottom up: generalizing common aspects of existing classes into a super class
-							- Top Down: Specialising
+							- <ins> Top Down</ins>: Specializing existing classes into multiple sub classes
 					- verify that access paths exist for likely queries.
 					- Iterate and refine the model.
 					- Reconsider the level of abstraction
