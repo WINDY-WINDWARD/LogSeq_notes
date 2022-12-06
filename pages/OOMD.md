@@ -24,5 +24,14 @@
 				  mixed.
 				- The system is considered as a black box
 				- Design decision are engineering choice that provides
-				  the behavior specified by requirements
+				  the behavior specified by requirements.
+				- The problem statement should state what is to be
+				  done but not how it is to be implemented.
+				- It should be statements of needs, not a proposal for
+				  system architecture.
+				- The requestor should avoid describing system internal,
+				  as this restricts development flexibility.
+				- The problem statement is just a starting point for
+				  understanding the problem, not a immutable
+				  document
 			-
