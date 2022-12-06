@@ -4,5 +4,6 @@
 		- purpose is to  <ins>defer details </ins> and <ins>understand the big picture</ins>
 		- ### Steps for system conception
 			- ##### 1: Devising a System Concept
-				-
+				- Some ways of devising new System Concepts
+					- <ins>New Functionality:</ins> add functionality to
 				-
