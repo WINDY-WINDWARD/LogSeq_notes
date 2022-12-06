@@ -184,8 +184,8 @@
 							  Major interactions
 							  External display formats
 							  Information exchanges
-							-
 						- add variation and exception scenarios
+							-
 						- find external event
 						- prepare activity diagram for complex use case.
 						- organize actors and use cases.
