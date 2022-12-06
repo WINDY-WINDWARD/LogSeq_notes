@@ -144,8 +144,10 @@
 					- #### Finding states
 						- list states of each class
 						- characterize the objects in each class, attribute value, associations they participate and their multiplicities and so on.
-						- give each state a meaningful name
+						- give each state a meaningful name and the states must have qualitative differences
 					- #### Finding Events
+						- find events that cause transition between states
+						-
 					- #### Building state diagrams
 					- #### Evaluating state diagrams
 				-
