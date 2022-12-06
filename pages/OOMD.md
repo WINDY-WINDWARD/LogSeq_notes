@@ -94,6 +94,8 @@
 							- <ins>Attributes:</ins> Names describing individual objects must be restated as attributes
 							- <ins>Operations:</ins>
 							  If the name describes an operation that is applied to the objects and not manipulated in its own right, then it is not a class
+							- <ins>Roles:</ins>
+							  name of the class should reflect its intrinsic nature
 					- Prepare a data dictionary
 					- Find associations
 					- Find attributes of objects and links
