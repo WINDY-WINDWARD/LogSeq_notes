@@ -72,7 +72,6 @@
 		-
 		-
 	- ## Object Oriented Analysis
-	  collapsed:: true
 		- ### Basic Principles:
 			- The Information Domain is modeled
 			- Behavior is represented
