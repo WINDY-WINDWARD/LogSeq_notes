@@ -119,10 +119,12 @@
 						- Two methods for adding inheritance
 							- <ins>Bottom up:</ins> generalizing common aspects of existing classes into a super class
 							- <ins>Top Down:</ins> Specializing existing classes into multiple sub classes
-					- #### Testing access
+					- #### Testing access paths
 						- Trace access paths through class model to see if they yield sensible results.
 						- verify that access paths exist for likely queries.
 					- Iterate and refine the model.
+						- iterate and refine the model
+						- correct
 					- Reconsider the level of abstraction
 					- Group classes into packages
 					-
