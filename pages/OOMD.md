@@ -113,8 +113,10 @@
 						- often corresponds to verbs or verb phrases
 					- #### Find attributes of objects and links
 						- attributes are properties of objects
-						- Attributes correspond to
-					- Organize and simplify classes using inheritance
+						- Attributes correspond to nouns
+					- ##### Organize and simplify classes using inheritance
+						- organize classes using inheritance
+						- Two methods for
 					- verify that access paths exist for likely queries.
 					- Iterate and refine the model.
 					- Reconsider the level of abstraction
