@@ -180,7 +180,8 @@
 							- so we have to use execution sequence diagram
 						- prepare normal scenarios
 							- a scenarios is a sequence of event among a set of interacting objects
-							- T
+							- <ins>scenarios illustrate: </ins>
+							  Major interactions
 						- add variation and exception scenarios
 						- find external event
 						- prepare activity diagram for complex use case.
