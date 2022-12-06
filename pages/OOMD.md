@@ -182,6 +182,9 @@
 							- a scenarios is a sequence of event among a set of interacting objects
 							- <ins>scenarios illustrate: </ins>
 							  Major interactions
+							  External display formats
+							  Information exchanges
+							-
 						- add variation and exception scenarios
 						- find external event
 						- prepare activity diagram for complex use case.
