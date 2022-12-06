@@ -185,8 +185,9 @@
 							  External display formats
 							  Information exchanges
 						- add variation and exception scenarios
-							- error cases or
+							- error cases or invalid values.
 						- find external event
+							-
 						- prepare activity diagram for complex use case.
 						- organize actors and use cases.
 						- check against domain class model
