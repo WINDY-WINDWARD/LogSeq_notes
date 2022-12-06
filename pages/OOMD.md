@@ -137,6 +137,8 @@
 						- A package is a group of elements (classes,
 						  association, generalizations and lesser packages)
 						  with common theme.
+				- #### Steps to construct domain state model: #domain_state_model
+					-
 				-
 			- #### Application Analysis #card #application_analysis
 				-
