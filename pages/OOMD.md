@@ -1,4 +1,5 @@
 - # UNIT 3
+	-
 	- ## SYSTEM CONCEPTION
 	  collapsed:: true
 		-
@@ -79,6 +80,7 @@
 			- Data, Functional, and Behavioral models are divided to uncover greater detail
 			- Early models represent the essence of the problem, while later ones provide implementation details
 		- ### Analysis is Divided into Two sub stages:
+		  collapsed:: true
 			- #### Domain Analysis #card #domain_analysis
 			  collapsed:: true
 				- used to understand the project problem description and to translate the requirements of that project into software components of a solution.
