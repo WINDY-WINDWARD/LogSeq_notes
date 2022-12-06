@@ -92,7 +92,7 @@
 							- <ins>Vague Classes:</ins>
 							  classes should be specific
 							- <ins>Attributes:</ins> Names describing individual objects must be restated as attributes
-							-
+							- <ins>Operations:</ins>
 					- Prepare a data dictionary
 					- Find associations
 					- Find attributes of objects and links
