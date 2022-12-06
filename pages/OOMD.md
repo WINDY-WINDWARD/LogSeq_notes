@@ -163,7 +163,8 @@
 						- any dead states that terminates cycle.?
 			- #### Application Analysis #card #application_analysis
 			  collapsed:: true
-				- #### Application interaction model
+				- #### Application interaction model #Application_interaction_model
+				  collapsed:: true
 					- interaction modelling begins with determining the overall boundary
 					- identify use cases and make scenario and use case diagram
 					- check against domain class model
