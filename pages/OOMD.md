@@ -125,8 +125,10 @@
 					- #### Iterate and refine the model.
 						- iterate and refine the model
 						- correct early stages of model if you find a deficiency.
-					- Reconsider the level of abstraction
-					- Group classes into packages
+					- #### Reconsider the level of abstraction
+						- abstraction makes model complex but increases flexibility.
+					- #### Group classes into packages
+						-
 					-
 			- Application Analysis
 		- ### Analysis model addresses the 3 aspects of objects:
