@@ -93,6 +93,8 @@
 							  classes should be specific
 							- <ins>Attributes:</ins> Names describing individual objects must be restated as attributes
 							- <ins>Operations:</ins>
+							  name describe an operation that is applied to the objects and not manipulated in its own right,
+							  then it is not a class
 					- Prepare a data dictionary
 					- Find associations
 					- Find attributes of objects and links
