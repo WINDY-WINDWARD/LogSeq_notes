@@ -79,4 +79,6 @@
 			- Data, Functional, and Behavioral models are divided to uncover greater detail
 			- Early models represent the essence of the problem, while later ones provide implementation details
 		- Analysis is Divided into Two sub stages
-			-
+			- Domain Analysis
+			- Application Analysis
+		- Analysis model addresses the 3
