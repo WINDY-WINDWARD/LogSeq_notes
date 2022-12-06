@@ -139,17 +139,22 @@
 						  with common theme.
 				- #### Steps to construct domain state model: #domain_state_model
 					- #### Identifying classes with states
+					  collapsed:: true
 						- examine domain classes for classes with distinct life cycle.
 						- identify significant states in the life cycle of the object.
 					- #### Finding states
+					  collapsed:: true
 						- list states of each class.
 						- characterize the objects in each class, attribute value, associations they participate and their multiplicities and so on.
 						- give each state a meaningful name and the states must have qualitative differences.
 					- #### Finding Events
+					  collapsed:: true
 						- find events that cause transition between states.
 					- #### Building state diagrams
+					  collapsed:: true
 						- using the states and events construct the state diagram showing transitions to show change in state caused by events.
 					- #### Evaluating state diagrams
+					  collapsed:: true
 						- check if all states are connected.
 						- is there a path from initial to final state?
 						- if it represents a cyclic class?
