@@ -80,7 +80,7 @@
 			- Early models represent the essence of the problem, while later ones provide implementation details
 		- ### Analysis is Divided into Two sub stages:
 			- #### Domain Analysis
-				- used to understand the project problem description and th
+				- used to understand the project problem description and to translate the requirements of that project into software components of a solution.
 			- Application Analysis
 		- ### Analysis model addresses the 3 aspects of objects:
 			- Static Structure of Objects (Class model)
