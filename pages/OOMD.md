@@ -81,6 +81,7 @@
 			- Early models represent the essence of the problem, while later ones provide implementation details
 		- ### Analysis is Divided into Two sub stages:
 			- #### Domain Analysis #card #domain_analysis
+			  collapsed:: true
 				- used to understand the project problem description and to translate the requirements of that project into software components of a solution.
 				- Domain model shows static structure of the real world system and organize into workable pieces.
 				- describes real-world classes and their relationships to each other
@@ -160,8 +161,6 @@
 						- is there a path from initial to final state?
 						- if it represents a cyclic class?
 						- any dead states that terminates cycle.?
-					-
-				-
 			- #### Application Analysis #card #application_analysis
 				-
 		- ### Analysis model addresses the 3 aspects of objects:
