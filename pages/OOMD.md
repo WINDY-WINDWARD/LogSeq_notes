@@ -82,7 +82,10 @@
 			- #### Domain Analysis
 				- used to understand the project problem description and to translate the requirements of that project into software components of a solution.
 				- Domain model shows static structure of the real world system and organize into workable pieces.
-				- describes real-world classes and their relatioship
+				- describes real-world classes and their relationships to each other
+				- ##### Step to construct a domain class model:
+					- Find Classes
+					-
 			- Application Analysis
 		- ### Analysis model addresses the 3 aspects of objects:
 			- Static Structure of Objects (Class model)
