@@ -7,7 +7,9 @@
 				- Some ways of devising new System Concepts
 					- <ins>New Functionality:</ins> add functionality to existing system
 					- <ins>Streamlining:</ins> remove restrictions or generalize the way  a system works.
-					- <ins>Simplification</ins> allow ordinary persons to perf
+					- <ins>Simplification</ins> allow ordinary persons to perform tasks
+					- <ins>Automation:</ins>
+					-
 					-
 					-
 				-
