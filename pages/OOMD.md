@@ -89,7 +89,6 @@
 					- #### Find Classes
 					  collapsed:: true
 						- Finding Classes and Keeping the right classes
-						  collapsed:: true
 							- <ins>Redundant classes :</ins>
 							  in case of redundant classes keep the one with most descriptive name eg: Customer and User (keep customer cause its more descriptive)
 							- <ins>Irrelevant Classes:</ins> remove irrelevant classes that are outside the scope of system
