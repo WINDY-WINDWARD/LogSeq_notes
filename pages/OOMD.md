@@ -140,8 +140,10 @@
 				- #### Steps to construct domain state model: #domain_state_model
 					- #### Identifying classes with states
 						- examine domain classes for classes with distinct life cycle.
-						- identify
+						- identify significant states in the life cycle of the object.
 					- #### Finding states
+						- list states of each class
+						- characterize the objects in each class
 					- #### Finding Events
 					- #### Building state diagrams
 					- #### Evaluating state diagrams
