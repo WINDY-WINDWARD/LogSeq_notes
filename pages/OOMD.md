@@ -138,7 +138,11 @@
 						  association, generalizations and lesser packages)
 						  with common theme.
 				- #### Steps to construct domain state model: #domain_state_model
-					-
+					- #### Identifying classes with states
+					- #### Finding states
+					- #### Finding Events
+					- #### Building state diagrams
+					- ####
 				-
 			- #### Application Analysis #card #application_analysis
 				-
