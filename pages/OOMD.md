@@ -99,7 +99,7 @@
 							- <ins>Implementation Constructs: </ins>
 							  Eliminate construct that are extraneous to the real world
 							- <ins>Derived Classes:</ins>
-							  omit classes that can be derived from
+							  omit classes that can be derived from other classes.
 							-
 					- Prepare a data dictionary
 					- Find associations
