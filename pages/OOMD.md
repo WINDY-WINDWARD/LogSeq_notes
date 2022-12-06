@@ -143,7 +143,8 @@
 						- identify significant states in the life cycle of the object.
 					- #### Finding states
 						- list states of each class
-						- characterize the objects in each class
+						- characterize the objects in each class, attribute value, associations they participate and their multiplicities and so on.
+						- give each state a meaningful name
 					- #### Finding Events
 					- #### Building state diagrams
 					- #### Evaluating state diagrams
