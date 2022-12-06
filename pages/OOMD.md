@@ -84,7 +84,7 @@
 				- Domain model shows static structure of the real world system and organize into workable pieces.
 				- describes real-world classes and their relationships to each other
 				- #### Step to construct a domain class model:
-					- ##### Find Classes
+					- #### Find Classes
 					  collapsed:: true
 						- Finding Classes and Keeping the right classes
 							- <ins>Redundant classes :</ins>
@@ -102,24 +102,27 @@
 							- <ins>Derived Classes:</ins>
 							  omit classes that can be derived from other classes.
 							-
-					- ##### Prepare a data dictionary
+					- #### Prepare a data dictionary
 					  collapsed:: true
 						- describe the scope of classes within current problem
 						- describe associations, attributes, operations and enumeration values
-					- ##### Find associations
+					- #### Find associations
 					  collapsed:: true
 						- A structural relationship b/w two or more classes is an association.
 						- association is a reference from one class to another class
 						- often corresponds to verbs or verb phrases
 					- #### Find attributes of objects and links
+					  collapsed:: true
 						- attributes are properties of objects
 						- Attributes correspond to nouns
-					- ##### Organize and simplify classes using inheritance
+					- #### Organize and simplify classes using inheritance
+					  collapsed:: true
 						- organize classes using inheritance
 						- Two methods for adding inheritance
 							- <ins>Bottom up:</ins> generalizing common aspects of existing classes into a super class
 							- <ins>Top Down:</ins> Specializing existing classes into multiple sub classes
 					- #### Testing access paths
+					  collapsed:: true
 						- Trace access paths through class model to see if they yield sensible results.
 						- verify that access paths exist for likely queries.
 					- #### Iterate and refine the model.
