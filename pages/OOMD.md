@@ -131,72 +131,55 @@
 						  with common theme.
 				- #### Steps to construct domain state model: #domain_state_model
 					- #### Identifying classes with states
-					  collapsed:: true
 						- examine domain classes for classes with distinct life cycle.
 						- identify significant states in the life cycle of the object.
 					- #### Finding states
-					  collapsed:: true
 						- list states of each class.
 						- characterize the objects in each class, attribute value, associations they participate and their multiplicities and so on.
 						- give each state a meaningful name and the states must have qualitative differences.
 					- #### Finding Events
-					  collapsed:: true
 						- find events that cause transition between states.
 					- #### Building state diagrams
-					  collapsed:: true
 						- using the states and events construct the state diagram showing transitions to show change in state caused by events.
 					- #### Evaluating state diagrams
-					  collapsed:: true
 						- check if all states are connected.
 						- is there a path from initial to final state?
 						- if it represents a cyclic class?
 						- any dead states that terminates cycle.?
 			- #### Application Analysis #card #application_analysis
-			  collapsed:: true
 				- #### Application interaction model #Application_interaction_model
-				  collapsed:: true
 					- interaction modelling begins with determining the overall boundary
 					- identify use cases and make scenario and use case diagram
 					- check against domain class model
 					- #### Steps to make Application Interaction Model
 						- ##### Determine the system boundary
-						  collapsed:: true
 							- scope of the application
 						- ##### find actors
-						  collapsed:: true
 							- actors are external entities that interact with the system. EG: devices, humans, other systems
 						- ##### find use-cases
-						  collapsed:: true
 							- for each actor list the fundamentally different ways the actor can interact with the system.
 							- each use case should represent a kind of service that the system provides.
 						- ##### find initial and final events
-						  collapsed:: true
 							- use cases do not represent the behavior correctly.
 							- so we have to use execution sequence diagram
 						- ##### prepare normal scenarios
-						  collapsed:: true
 							- a scenarios is a sequence of event among a set of interacting objects
 							- <ins>scenarios illustrate: </ins>
 							  Major interactions
 							  External display formats
 							  Information exchanges
 						- ##### add variation and exception scenarios
-						  collapsed:: true
 							- error cases or invalid values.
 						- ##### find external event
-						  collapsed:: true
 							- error cases or invalid values.
 						- ##### prepare activity diagram for complex use case.
-						  collapsed:: true
 							- Sequence diagram capture the dialog and interplay
 							  between actors, but they do not clearly show
 							  alternatives and decisions.
 						- ##### organize actors and use cases.
-						  collapsed:: true
 							- step is to organize use cases with relationships
 							  (include, extend and generalization)
 						- ##### check against domain class model
-						  collapsed:: true
 							- Cross check the application and domain model to
 							  ensure that there are no inconsistencies
 		- ### Analysis model addresses the 3 aspects of objects:
