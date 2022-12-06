@@ -106,7 +106,7 @@
 						- describe associations, attributes, operations and enumeration values
 						-
 					- ##### Find associations
-						- A structural relatioship b/w two or more classes is an asso
+						- A structural relationship b/w two or more classes is an association.
 					- Find attributes of objects and links
 					- Organize and simplify classes using inheritance
 					- verify that access paths exist for likely queries.
