@@ -125,7 +125,7 @@
 					  collapsed:: true
 						- Trace access paths through class model to see if they yield sensible results.
 						- verify that access paths exist for likely queries.
-					- #### Iterate and refine the model.
+					- #### Iterate and refine the model
 					  collapsed:: true
 						- iterate and refine the model
 						- correct early stages of model if you find a deficiency.
@@ -142,17 +142,18 @@
 						- examine domain classes for classes with distinct life cycle.
 						- identify significant states in the life cycle of the object.
 					- #### Finding states
-						- list states of each class
+						- list states of each class.
 						- characterize the objects in each class, attribute value, associations they participate and their multiplicities and so on.
-						- give each state a meaningful name and the states must have qualitative differences
+						- give each state a meaningful name and the states must have qualitative differences.
 					- #### Finding Events
-						- find events that cause transition between states
+						- find events that cause transition between states.
 					- #### Building state diagrams
-						- using the states and events construct the state diagram showing transitions to show change in state caused by events
+						- using the states and events construct the state diagram showing transitions to show change in state caused by events.
 					- #### Evaluating state diagrams
-						- check if all states are connected
-						- is there a path from initial to final state
-						- if it represents a cyclic class
+						- check if all states are connected.
+						- is there a path from initial to final state?
+						- if it represents a cyclic class?
+						- any dead states that terminates cycle.?
 					-
 				-
 			- #### Application Analysis #card #application_analysis
