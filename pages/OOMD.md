@@ -22,5 +22,7 @@
 			- ##### 3: Preparing a Problem Statement
 				- Requirements and design decisions should not be
 				  mixed.
-				- The system is considerd
+				- The system is considered as a black box
+				- Design decision are engineering choice that provides
+				  the behavior specified by requirements
 			-
