@@ -177,7 +177,7 @@
 							- each use case should represent a kind of service that the system provides.
 						- find initial and final events
 							- use cases do not represent the behavior correctly.
-							- so we have to  use execution
+							- so we have to use execution sequence diagram
 						- prepare normal scenarios
 						- add variation and exception scenarios
 						- find external event
