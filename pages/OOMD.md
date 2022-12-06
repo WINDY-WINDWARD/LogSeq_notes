@@ -9,6 +9,9 @@
 					- <ins>Streamlining:</ins> remove restrictions or generalize the way  a system works.
 					- <ins>Simplification</ins> allow ordinary persons to perform tasks
 					- <ins>Automation:</ins>
+					- <ins>Integration:</ins> combine
+					- <ins>Analogies:</ins>
+					- <ins>Globalization:</ins>
 					-
 					-
 					-
