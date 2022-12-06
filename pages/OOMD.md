@@ -102,6 +102,7 @@
 							  omit classes that can be derived from other classes.
 							-
 					- ##### Prepare a data dictionary
+						- describe the scope of classes within current problem
 						-
 					- Find associations
 					- Find attributes of objects and links
