@@ -82,6 +82,6 @@
 			- Domain Analysis
 			- Application Analysis
 		- ### Analysis model addresses the 3 aspects of objects:
-			- Static Structure of Objects (lass model)
+			- Static Structure of Objects (Class model)
 			- Interaction Among objects (Interaction model)
 			- Life Cycle histories of objects (State model)
