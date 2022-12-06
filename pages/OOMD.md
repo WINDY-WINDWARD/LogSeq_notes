@@ -85,6 +85,10 @@
 				- describes real-world classes and their relationships to each other
 				- ##### Step to construct a domain class model:
 					- Find Classes
+					- Prepare a data dictionary
+					- Find associations
+					- Find attributes of objects and links
+					- Organize and simplify classes using inheritance
 					-
 			- Application Analysis
 		- ### Analysis model addresses the 3 aspects of objects:
