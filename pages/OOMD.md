@@ -169,33 +169,43 @@
 					- check against domain class model
 					- #### Steps to make Application Interaction Model
 						- ##### Determine the system boundary
+						  collapsed:: true
 							- scope of the application
 						- ##### find actors
+						  collapsed:: true
 							- actors are external entities that interact with the system. EG: devices, humans, other systems
 						- ##### find use-cases
+						  collapsed:: true
 							- for each actor list the fundamentally different ways the actor can interact with the system.
 							- each use case should represent a kind of service that the system provides.
 						- ##### find initial and final events
+						  collapsed:: true
 							- use cases do not represent the behavior correctly.
 							- so we have to use execution sequence diagram
 						- ##### prepare normal scenarios
+						  collapsed:: true
 							- a scenarios is a sequence of event among a set of interacting objects
 							- <ins>scenarios illustrate: </ins>
 							  Major interactions
 							  External display formats
 							  Information exchanges
 						- ##### add variation and exception scenarios
+						  collapsed:: true
 							- error cases or invalid values.
 						- ##### find external event
+						  collapsed:: true
 							- error cases or invalid values.
 						- ##### prepare activity diagram for complex use case.
+						  collapsed:: true
 							- Sequence diagram capture the dialog and interplay
 							  between actors, but they do not clearly show
 							  alternatives and decisions.
 						- ##### organize actors and use cases.
+						  collapsed:: true
 							- step is to organize use cases with relationships
 							  (include, extend and generalization)
 						- ##### check against domain class model
+						  collapsed:: true
 							- Cross check the application and domain model to
 							  ensure that there are no inconsistencies
 		- ### Analysis model addresses the 3 aspects of objects:
