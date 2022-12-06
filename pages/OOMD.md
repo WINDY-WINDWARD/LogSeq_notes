@@ -126,9 +126,11 @@
 						- Trace access paths through class model to see if they yield sensible results.
 						- verify that access paths exist for likely queries.
 					- #### Iterate and refine the model.
+					  collapsed:: true
 						- iterate and refine the model
 						- correct early stages of model if you find a deficiency.
 					- #### Reconsider the level of abstraction
+					  collapsed:: true
 						- abstraction makes model complex but increases flexibility.
 					- #### Group classes into packages
 						-
