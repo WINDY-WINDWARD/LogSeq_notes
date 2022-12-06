@@ -147,9 +147,10 @@
 						- give each state a meaningful name and the states must have qualitative differences
 					- #### Finding Events
 						- find events that cause transition between states
-						-
 					- #### Building state diagrams
-					- #### Evaluating state diagrams
+						- using the states and events construct the state diagram showing transitions to show change in state caused by events
+					- #### Evaluating state diagrams\
+					-
 				-
 			- #### Application Analysis #card #application_analysis
 				-
