@@ -149,7 +149,10 @@
 						- find events that cause transition between states
 					- #### Building state diagrams
 						- using the states and events construct the state diagram showing transitions to show change in state caused by events
-					- #### Evaluating state diagrams\
+					- #### Evaluating state diagrams
+						- check if all states are connected
+						- is there a path from initial to final state
+						- if it represents a cyclic class
 					-
 				-
 			- #### Application Analysis #card #application_analysis
