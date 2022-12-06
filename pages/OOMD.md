@@ -93,6 +93,7 @@
 					- Iterate and refine the model.
 					- Reconsider the level of abstraction
 					- Group classes into packages
+					-
 			- Application Analysis
 		- ### Analysis model addresses the 3 aspects of objects:
 			- Static Structure of Objects (Class model)
