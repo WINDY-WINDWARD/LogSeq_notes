@@ -169,8 +169,9 @@
 						- Determine the system boundary
 							- scope of the application
 						- find actors
-							- actors are external entities that
+							- actors are external entities that interact with the system. EG: devices, humans, other systems
 						- find use-cases
+							- for each actor
 						- find initial and final events
 						- prepare normal scenarios
 						- add variation and exception scenarios
