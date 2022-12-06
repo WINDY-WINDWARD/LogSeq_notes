@@ -107,6 +107,7 @@
 						-
 					- ##### Find associations
 						- A structural relationship b/w two or more classes is an association.
+						- association is a reference from one class to
 					- Find attributes of objects and links
 					- Organize and simplify classes using inheritance
 					- verify that access paths exist for likely queries.
