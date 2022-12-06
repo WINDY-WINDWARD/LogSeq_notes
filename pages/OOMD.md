@@ -139,10 +139,12 @@
 						  with common theme.
 				- #### Steps to construct domain state model: #domain_state_model
 					- #### Identifying classes with states
+						- examine domain classes for classes with distinct life cycle.
+						- identify
 					- #### Finding states
 					- #### Finding Events
 					- #### Building state diagrams
-					- ####
+					- #### Evaluating state diagrams
 				-
 			- #### Application Analysis #card #application_analysis
 				-
