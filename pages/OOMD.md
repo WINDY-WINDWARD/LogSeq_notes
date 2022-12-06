@@ -98,7 +98,7 @@
 							  name of the class should reflect its intrinsic nature and not a role it plays in an association.
 							- <ins>Implementation Constructs: </ins>
 							  Eliminate construct that are extraneous to the real world
-							-
+							- <ins>Derived Classes:</ins>
 					- Prepare a data dictionary
 					- Find associations
 					- Find attributes of objects and links
