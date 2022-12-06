@@ -3,4 +3,6 @@
 		- deals with genesis of application
 		- purpose is to  <ins>defer details </ins> and <ins>understand the big picture</ins>
 		- ### Steps for system conception
-			- 1:
+			- ##### 1: Devising a System Concept
+				-
+				-
