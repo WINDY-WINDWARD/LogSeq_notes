@@ -81,7 +81,8 @@
 		- ### Analysis is Divided into Two sub stages:
 			- #### Domain Analysis
 				- used to understand the project problem description and to translate the requirements of that project into software components of a solution.
-				- Domain model shows static structure  of the real wo
+				- Domain model shows static structure of the real world system and organize into workable pieces.
+				- describes real
 			- Application Analysis
 		- ### Analysis model addresses the 3 aspects of objects:
 			- Static Structure of Objects (Class model)
