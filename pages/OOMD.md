@@ -90,6 +90,7 @@
 							  in case of redundant classes keep the one with most descriptive name eg: Customer and User (keep customer cause its more descriptive)
 							- <ins>Irrelevant Classes:</ins> remove irrelevant classes that are outside the scope of system
 							- <ins>Vague Classes:</ins>
+							  class s
 					- Prepare a data dictionary
 					- Find associations
 					- Find attributes of objects and links
