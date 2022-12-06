@@ -1,2 +1,4 @@
 - # UNIT 3
-	- ## SYSTEM CONCEPT
+	- ## SYSTEM CONCEPTION
+		- deals with genesis of application
+		- purpose is to defer details and unde
