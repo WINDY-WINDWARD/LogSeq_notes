@@ -189,7 +189,9 @@
 						- find external event
 							- error cases or invalid values.
 						- prepare activity diagram for complex use case.
-							-
+							- Sequence diagram capture the dialog and interplay
+							  between actors, but they do not clearly show
+							  alternatives and decisions.
 						- organize actors and use cases.
 							- step is to organize use cases with relationships
 							  (include, extend and generalization)
