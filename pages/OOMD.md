@@ -165,6 +165,7 @@
 					- interaction modelling begins with determining the overall boundary
 					- identify use cases and make scenario and use case diagram
 					- check against domain class model
+					- #### Steps to make Application Interaction model
 					-
 		- ### Analysis model addresses the 3 aspects of objects:
 			- Static Structure of Objects (Class model)
