@@ -1,4 +1,5 @@
 - # UNIT 3
 	- ## SYSTEM CONCEPTION
 		- deals with genesis of application
-		- purpose is to defer details <ins></ins> and understand the big picture
+		- purpose is to  <ins>defer details </ins> and <ins>understand the big picture</ins>
+		-
