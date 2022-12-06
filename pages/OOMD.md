@@ -84,7 +84,8 @@
 				- Domain model shows static structure of the real world system and organize into workable pieces.
 				- describes real-world classes and their relationships to each other
 				- ##### Step to construct a domain class model:
-					- Find Classes
+					- ##### Find Classes
+						- Finding Classes and Keeping the right classes
 					- Prepare a data dictionary
 					- Find associations
 					- Find attributes of objects and links
