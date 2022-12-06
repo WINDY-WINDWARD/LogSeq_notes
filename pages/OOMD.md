@@ -83,7 +83,7 @@
 				- used to understand the project problem description and to translate the requirements of that project into software components of a solution.
 				- Domain model shows static structure of the real world system and organize into workable pieces.
 				- describes real-world classes and their relationships to each other
-				- #### Step to construct a domain class model:
+				- #### Step to construct a Domain class model: #Domain_class_model
 					- #### Find Classes
 					  collapsed:: true
 						- Finding Classes and Keeping the right classes
@@ -133,9 +133,11 @@
 					  collapsed:: true
 						- abstraction makes model complex but increases flexibility.
 					- #### Group classes into packages
+					  collapsed:: true
 						- A package is a group of elements (classes,
 						  association, generalizations and lesser packages)
 						  with common theme.
+				-
 			- #### Application Analysis #card #application_analysis
 				-
 		- ### Analysis model addresses the 3 aspects of objects:
