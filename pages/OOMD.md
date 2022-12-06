@@ -13,5 +13,6 @@
 					- <ins>Analogies:</ins>check other problems in other domains for useful ideas
 					- <ins>Globalization:</ins> travel to observe business and cultural practices.
 			- ##### 2: Elaborating a concept
+			- ##### 3: Preparing a Problem Statement
 			-
 			-
