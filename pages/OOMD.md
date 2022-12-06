@@ -8,9 +8,9 @@
 					- <ins>New Functionality:</ins> add functionality to existing system
 					- <ins>Streamlining:</ins> remove restrictions or generalize the way  a system works.
 					- <ins>Simplification</ins> allow ordinary persons to perform tasks
-					- <ins>Automation:</ins>
-					- <ins>Integration:</ins> combine
-					- <ins>Analogies:</ins>
+					- <ins>Automation:</ins> Automate manual processes
+					- <ins>Integration:</ins> combine functionality from different systems
+					- <ins>Analogies:</ins>check other problems in other domains to see if
 					- <ins>Globalization:</ins>
 					-
 					-
