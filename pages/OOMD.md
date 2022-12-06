@@ -133,7 +133,7 @@
 					  collapsed:: true
 						- abstraction makes model complex but increases flexibility.
 					- #### Group classes into packages
-						-
+						- g
 					-
 			- Application Analysis
 		- ### Analysis model addresses the 3 aspects of objects:
