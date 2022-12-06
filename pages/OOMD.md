@@ -116,7 +116,9 @@
 						- Attributes correspond to nouns
 					- ##### Organize and simplify classes using inheritance
 						- organize classes using inheritance
-						- Two methods for
+						- Two methods for adding inheritance
+							- Bottom up: generalizing common aspects of existing classes into a super class
+							- Top Down: Specialising
 					- verify that access paths exist for likely queries.
 					- Iterate and refine the model.
 					- Reconsider the level of abstraction
