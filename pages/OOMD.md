@@ -5,5 +5,7 @@
 		- ### Steps for system conception
 			- ##### 1: Devising a System Concept
 				- Some ways of devising new System Concepts
-					- <ins>New Functionality:</ins> add functionality to
+					- <ins>New Functionality:</ins> add functionality to existing system
+					- <ins>Streamlining:</ins> remove restrictions or generalize the way  a system works.
+					-
 				-
