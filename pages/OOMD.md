@@ -113,7 +113,7 @@
 						- often corresponds to verbs or verb phrases
 					- #### Find attributes of objects and links
 						- attributes are properties of objects
-						-
+						- Attributes correspond to
 					- Organize and simplify classes using inheritance
 					- verify that access paths exist for likely queries.
 					- Iterate and refine the model.
