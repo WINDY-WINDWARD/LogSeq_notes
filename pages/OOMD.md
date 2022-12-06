@@ -2,4 +2,4 @@
 	- ## SYSTEM CONCEPTION
 		- deals with genesis of application
 		- purpose is to  <ins>defer details </ins> and <ins>understand the big picture</ins>
-		-
+		- STEPS
