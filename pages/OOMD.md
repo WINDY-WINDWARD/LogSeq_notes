@@ -80,7 +80,6 @@
 			- Early models represent the essence of the problem, while later ones provide implementation details
 		- ### Analysis is Divided into Two sub stages:
 			- #### Domain Analysis #card #domain_analysis
-			  collapsed:: true
 				- used to understand the project problem description and to translate the requirements of that project into software components of a solution.
 				- Domain model shows static structure of the real world system and organize into workable pieces.
 				- describes real-world classes and their relationships to each other
@@ -137,7 +136,8 @@
 						- A package is a group of elements (classes,
 						  association, generalizations and lesser packages)
 						  with common theme.
-			- #### Application Analysis #card #Application Ana
+			- #### Application Analysis #card #application_analysis
+				-
 		- ### Analysis model addresses the 3 aspects of objects:
 			- Static Structure of Objects (Class model)
 			- Interaction Among objects (Interaction model)
