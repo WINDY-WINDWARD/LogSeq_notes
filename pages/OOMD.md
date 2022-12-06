@@ -167,7 +167,9 @@
 					- check against domain class model
 					- #### Steps to make Application Interaction Model
 						- Determine the system boundary
+							- scope of the application
 						- find actors
+							- actors are external entities that
 						- find use-cases
 						- find initial and final events
 						- prepare normal scenarios
