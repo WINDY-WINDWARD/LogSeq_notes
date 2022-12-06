@@ -122,9 +122,9 @@
 					- #### Testing access paths
 						- Trace access paths through class model to see if they yield sensible results.
 						- verify that access paths exist for likely queries.
-					- Iterate and refine the model.
+					- #### Iterate and refine the model.
 						- iterate and refine the model
-						- correct
+						- correct early stages of model if you find a deficiency.
 					- Reconsider the level of abstraction
 					- Group classes into packages
 					-
