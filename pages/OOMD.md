@@ -11,7 +11,8 @@
 					- <ins>Automation:</ins> Automate manual processes
 					- <ins>Integration:</ins> combine functionality from different systems
 					- <ins>Analogies:</ins>check other problems in other domains for useful ideas
-					- <ins>Globalization:</ins> travel to observe business and c
+					- <ins>Globalization:</ins> travel to observe business and cultural practices.
+					-
 					-
 					-
 					-
