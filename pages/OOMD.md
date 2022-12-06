@@ -91,7 +91,8 @@
 							- <ins>Irrelevant Classes:</ins> remove irrelevant classes that are outside the scope of system
 							- <ins>Vague Classes:</ins>
 							  classes should be specific
-							- <ins</ins>
+							- <ins>Attributes:</ins> Names describing individual objects must be restated as attributes
+							-
 					- Prepare a data dictionary
 					- Find associations
 					- Find attributes of objects and links
