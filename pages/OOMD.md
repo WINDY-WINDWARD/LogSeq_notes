@@ -74,4 +74,6 @@
 	- ## Object Oriented Analysis
 		- Basic Principles
 			- The Information Domain is modeled
-			-
+			- Behavior is represented
+			- Function is described
+			- Data, Functional, and Behavioral models are divided to
