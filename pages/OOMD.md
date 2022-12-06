@@ -176,7 +176,7 @@
 							- for each actor list the fundamentally different ways the actor can interact with the system.
 							- each use case should represent a kind of service that the system provides.
 						- find initial and final events
-							- for the model
+							- use cases do not represent the
 						- prepare normal scenarios
 						- add variation and exception scenarios
 						- find external event
