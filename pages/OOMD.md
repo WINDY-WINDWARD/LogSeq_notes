@@ -72,4 +72,6 @@
 		-
 		-
 	- ## Object Oriented Analysis
-		- Bas
+		- Basic Principles
+			- The Information Domain is modeled
+			-
