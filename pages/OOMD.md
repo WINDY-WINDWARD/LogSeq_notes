@@ -101,7 +101,8 @@
 							- <ins>Derived Classes:</ins>
 							  omit classes that can be derived from other classes.
 							-
-					- Prepare a data dictionary
+					- ##### Prepare a data dictionary
+						-
 					- Find associations
 					- Find attributes of objects and links
 					- Organize and simplify classes using inheritance
