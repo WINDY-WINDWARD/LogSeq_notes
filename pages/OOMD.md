@@ -171,7 +171,9 @@
 						- find use-cases
 						- find initial and final events
 						- prepare normal scenarios
-						- add variation
+						- add variation and exception scenarios
+						- find external event
+						- prepare activity diagram
 		- ### Analysis model addresses the 3 aspects of objects:
 			- Static Structure of Objects (Class model)
 			- Interaction Among objects (Interaction model)
