@@ -76,4 +76,6 @@
 			- The Information Domain is modeled
 			- Behavior is represented
 			- Function is described
-			- Data, Functional, and Behavioral models are divided to
+			- Data, Functional, and Behavioral models are divided to uncover greater detail
+			- Early models represent the essence of the problem, while later ones provide implementation details
+		-
