@@ -72,6 +72,7 @@
 		-
 		-
 	- ## Object Oriented Analysis
+	  collapsed:: true
 		- ### Basic Principles:
 			- The Information Domain is modeled
 			- Behavior is represented
@@ -167,3 +168,4 @@
 			- Static Structure of Objects (Class model)
 			- Interaction Among objects (Interaction model)
 			- Life Cycle histories of objects (State model)
+-
