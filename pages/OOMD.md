@@ -103,6 +103,7 @@
 							-
 					- ##### Prepare a data dictionary
 						- describe the scope of classes within current problem
+						- describe associations, attributes, operations and enumeration values
 						-
 					- Find associations
 					- Find attributes of objects and links
