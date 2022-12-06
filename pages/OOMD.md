@@ -173,7 +173,9 @@
 						- prepare normal scenarios
 						- add variation and exception scenarios
 						- find external event
-						- prepare activity diagram
+						- prepare activity diagram for complex use case.
+						- organize actors and use cases.
+						- check against domain class model
 		- ### Analysis model addresses the 3 aspects of objects:
 			- Static Structure of Objects (Class model)
 			- Interaction Among objects (Interaction model)
