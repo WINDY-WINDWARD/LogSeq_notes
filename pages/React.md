@@ -11,5 +11,8 @@
 			- <ins>JavaScript:</ins> JavaScript a very popular language is the main language to develop the applications in react-native
 		- ### Disadvantages
 			- <ins>Still very new</ins>
-			- <ins>Learning is Toug</ins>
+			- <ins>Learning is Tough</ins>
+			- <ins>lacks security robustness</ins>
+			- <ins>takes time to initialize</ins>
+			- /exit
 		-
