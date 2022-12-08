@@ -7,7 +7,8 @@
 			- <ins>Performance:</ins>  Code written in react native is compiled into native code. which enables it for all operating systems to provide closer native appearance
 			- <ins>Community:</ins> React native has a large community of passionate developers who are constantly adding new features and fixing bugs
 			- <ins>Hot Reloading:</ins> making a few changes in your app's code is immediately visible.
-			- <ins>Faster Development</ins> ability to develop apps quickly and deploy everywhere. using a single code-base
-			- <ins>JavaScript</ins> : JavaScript a very popular language is the main language to develop the applications in react-native
+			- <ins>Faster Development:</ins> ability to develop apps quickly and deploy everywhere. using a single code-base
+			- <ins>JavaScript:</ins> JavaScript a very popular language is the main language to develop the applications in react-native
+		- ### Disadvantages
 			-
 		-
