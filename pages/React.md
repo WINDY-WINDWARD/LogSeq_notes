@@ -43,6 +43,7 @@
 			  collapsed:: true
 				- draw the UI elements using OpenGL
 		- ## Example Program
+			- STATE
 			- ```
 			  import React, {Component} from 'react';
 			  import {Text,View} from 'react-native';
