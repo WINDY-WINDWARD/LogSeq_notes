@@ -32,6 +32,8 @@
 		- ## Threads used in React Native
 			- React Native UI Thread (Main Thread)
 			- React native javascript Thread
+				- the thread running business logic
 			- React Native modules Thread
-				-
+				- use to access platform specific API's
 			- React Native render Thread
+				- draw the UI
