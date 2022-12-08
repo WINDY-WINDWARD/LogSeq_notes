@@ -21,3 +21,4 @@
 			  basic built-in component used to build UI of Mobile apps. view is similar to the div in html. it is a content area where you can display your content.
 			- ### States:
 			  it is used to control the components. The variable data can be stored in the state. it is mutable means a state can change the value at any time.
+			- ### Po
