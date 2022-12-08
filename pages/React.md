@@ -29,4 +29,5 @@
 			  this component displays text in the app. It uses the basic component textInput to take text input from the user
 			- ### ScrollView:
 			  it is a scrolling container used to host multiple views. It can be used to render the large list or content in view with a scroll bar
-		- Threads
+		- ## Threads used in React Native
+			- React Native UI Thread (Main )
