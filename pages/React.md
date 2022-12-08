@@ -26,4 +26,6 @@
 			- ### Style:
 			  it is an essential component in the web or mobile, which makes the application attractive. React Native does not require any special language or syntax.
 			- ### Text:
-			  this component displays text in the app. It uses the basic component textInput to take text input from the
+			  this component displays text in the app. It uses the basic component textInput to take text input from the user
+			- ### ScrollView:
+			  it is a scrolling container
