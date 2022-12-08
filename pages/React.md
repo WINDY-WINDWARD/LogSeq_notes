@@ -30,4 +30,8 @@
 			- ### ScrollView:
 			  it is a scrolling container used to host multiple views. It can be used to render the large list or content in view with a scroll bar
 		- ## Threads used in React Native
-			- React Native UI Thread (Main )
+			- React Native UI Thread (Main Thread)
+			- React native javascript Thread
+			- React Native modules Thread
+				-
+			- React Native render Thread
