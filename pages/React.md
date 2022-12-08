@@ -22,4 +22,6 @@
 			- ### States:
 			  it is used to control the components. The variable data can be stored in the state. it is mutable means a state can change the value at any time.
 			- ### Props:
-			  props are used to pass data to the different components. It is immutable means props cannot change the value. it Provides a connection b/w the container componne
+			  props are used to pass data to the different components. It is immutable means props cannot change the value. it Provides a connection b/w the container component and presentation component.
+			- ### Style:
+			  it is an
