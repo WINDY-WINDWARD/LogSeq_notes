@@ -25,3 +25,4 @@
 			  props are used to pass data to the different components. It is immutable means props cannot change the value. it Provides a connection b/w the container component and presentation component.
 			- ### Style:
 			  it is an essential component in the web or mobile, which makes the application attractive. React Native does not require any special language or syntax.
+			-
