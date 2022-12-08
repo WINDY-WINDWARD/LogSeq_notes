@@ -4,5 +4,10 @@
 		  it sends Batched asynchronous messages to the native API of android or ios
 		- ### Advantages
 			- Cross-Platform
+			- Performance
+			- Community
+			- Hot Reloading
+			- Faster Development
+			- Javascript
 			-
 		-
