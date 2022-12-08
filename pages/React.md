@@ -3,6 +3,7 @@
 		- React Native uses the React library for the web and runs in JavaScriptCore
 		  it sends Batched asynchronous messages to the native API of android or ios
 		- ### Advantages
+		  collapsed:: true
 			- <ins>Cross-Platform:</ins>  React follows a principle of write once and run everywhere
 			- <ins>Performance:</ins>  Code written in react native is compiled into native code. which enables it for all operating systems to provide closer native appearance
 			- <ins>Community:</ins> React native has a large community of passionate developers who are constantly adding new features and fixing bugs
@@ -10,9 +11,10 @@
 			- <ins>Faster Development:</ins> ability to develop apps quickly and deploy everywhere. using a single code-base
 			- <ins>JavaScript:</ins> JavaScript a very popular language is the main language to develop the applications in react-native
 		- ### Disadvantages
+		  collapsed:: true
 			- <ins>Still very new</ins>
 			- <ins>Learning is Tough</ins>
 			- <ins>lacks security robustness</ins>
 			- <ins>takes time to initialize</ins>
-		- ## Existence
-		-
+		- ## Essential components of React Native
+			- ### View:
