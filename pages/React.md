@@ -18,4 +18,5 @@
 			- <ins>takes time to initialize</ins>
 		- ## Essential components of React Native
 			- ### View:
-			  basic built-in component used to build UI of Mobile apps. view is similar to the
+			  basic built-in component used to build UI of Mobile apps. view is similar to the div in html. it is a content area where you can display your content.
+			- ### States
