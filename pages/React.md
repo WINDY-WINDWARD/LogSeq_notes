@@ -1,3 +1,4 @@
 - # UNIT 3
 	- ## React Native
-		- React Native uses the react library for the web
+		- React Native uses the React library for the web and runs in JavaScriptCore
+		  it sends Bat
