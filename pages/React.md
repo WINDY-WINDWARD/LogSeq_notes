@@ -8,6 +8,6 @@
 			- Community: React native has a large community of passionate developers who are constantly adding new features and fixing bugs
 			- Hot Reloading: making a few changes in your app's code is immediately visible.
 			- Faster Development: ability to develop apps quickly and deploy everywhere. using a single code-base
-			- Javascript: Javascript a very popular
+			- JavaScript: JavaScript a very popular language is the main language to develop the applications in react-native
 			-
 		-
