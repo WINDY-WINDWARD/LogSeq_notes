@@ -31,9 +31,15 @@
 			  it is a scrolling container used to host multiple views. It can be used to render the large list or content in view with a scroll bar
 		- ## Threads used in React Native
 			- React Native UI Thread (Main Thread)
+			  collapsed:: true
+				- for layout of the mobile app
 			- React native javascript Thread
+			  collapsed:: true
 				- the thread running business logic
 			- React Native modules Thread
+			  collapsed:: true
 				- use to access platform specific API's
 			- React Native render Thread
-				- draw the UI
+			  collapsed:: true
+				- draw the UI elements using OpenGL
+		-
