@@ -44,4 +44,21 @@
 				- draw the UI elements using OpenGL
 		- ## Example Program
 			- ```
+			  import React, {Component} from 'react';
+			  import {Text,View} from 'react-native';
+			  
+			  export default class App extends Component {
+			  
+			  	state = { 
+			      	myState: 'Hello world'}
+			     	
+			      updateState = () => this.setState({myState:'Karthik'})
+			      
+			      render(){
+			      	return(<View>
+			          	<Text onPress={this.updateState}> {this.state.myState} </Text>
+			              
+			          </View>);
+			      }
+			  }
 			  ```
