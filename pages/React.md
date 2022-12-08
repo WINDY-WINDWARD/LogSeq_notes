@@ -10,5 +10,6 @@
 			- <ins>Faster Development:</ins> ability to develop apps quickly and deploy everywhere. using a single code-base
 			- <ins>JavaScript:</ins> JavaScript a very popular language is the main language to develop the applications in react-native
 		- ### Disadvantages
-			-
+			- <ins>Still very new</ins>
+			- <ins>Learning is Toug</ins>
 		-
