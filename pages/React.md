@@ -4,9 +4,8 @@
 		  it sends Batched asynchronous messages to the native API of android or ios
 		- ### Advantages
 			- Cross-Platform: React follows a principle of write once and run everywhere
-			- Performance: Code written in react native is compiled into native code
-			-
-			- Community
+			- Performance: Code written in react native is compiled into native code. which enables it for all operating systems to provide closer native appearance
+			- Community:
 			- Hot Reloading
 			- Faster Development
 			- Javascript
