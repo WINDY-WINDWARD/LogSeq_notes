@@ -1,3 +1,4 @@
 - # UNIT 3
 	- ## CDN
 		- CDN's are transparent backbones of the internet in charge of content delivery. It is primarily used to deliver static content.
+			- CDN stores the cached content in multiple geo
