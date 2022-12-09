@@ -34,4 +34,5 @@
 						- under web section of select delivery method for your content page click get started
 						- create distribution page opens. choose the amazon s3 bucket created in the origins Domain name and leave the remaining fields as default
 						- default cache behavior page opens. keep values default move to next page.
-						-
+						- Distribution settings page opens.  fill the details as per requirements and click create distribution button
+						- Status column changes from in progress to deployed
