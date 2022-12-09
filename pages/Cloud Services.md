@@ -11,4 +11,5 @@
 				- balance between multiple servers
 				- protect your websites from DDOS attacks
 				- secure your application
-			-
+			- ### CloudFront
+				-
