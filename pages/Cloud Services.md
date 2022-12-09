@@ -9,4 +9,6 @@
 				- Localize coverage without the cost
 				- reduce bandwidth  consumption
 				- balance between multiple servers
-				- protect your websites
+				- protect your websites from DDOS attacks
+				- secure your application
+			-
