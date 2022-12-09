@@ -16,4 +16,3 @@
 				- can be used with other AWS services.
 				- it is cost effective.
 				-
-				-
