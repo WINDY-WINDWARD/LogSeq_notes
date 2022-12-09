@@ -12,4 +12,4 @@
 				- protect your websites from DDOS attacks
 				- secure your application
 			- ### CloudFront
-				- Fast broad network of edge locations and cloudfront caches
+				- Fast broad network of edge locations and cloud-front caches copies of content close to the end users
