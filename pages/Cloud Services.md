@@ -25,4 +25,4 @@
 						- Cloudfront compares the request with the specifications and forwards to the applicable origin server
 						- origin server sends the file back to edge server
 						- as soon as the first bit arrives from the origin server the server starts forwarding the file to the user. and also add the file to the cache
-					-
+					- The file will be now stored
