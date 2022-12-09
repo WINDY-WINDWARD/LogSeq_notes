@@ -33,4 +33,5 @@
 						- choose cloudfront from services menu aws console
 						- under web section of select delivery method for your content page click get started
 						- create distribution page opens. choose the amazon s3 bucket created in the origins Domain name and leave the remaining fields as default
+						- default cache behavior page opens. keep values default move to next page.
 						-
