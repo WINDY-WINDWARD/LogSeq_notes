@@ -18,4 +18,7 @@
 				- located in multiple regions
 				- reliable
 				- elastic
-				- ####
+				- #### How it works?
+					- user accesses website and requests to download a image
+					- DNS routes the request to the nearest cloudfront edge location
+					-
