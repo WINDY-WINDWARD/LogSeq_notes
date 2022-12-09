@@ -26,4 +26,6 @@
 						- origin server sends the file back to edge server
 						- as soon as the first bit arrives from the origin server the server starts forwarding the file to the user. and also add the file to the cache
 					- The file will be now stored in the cache server for 24 hours or the set time in the file header
-				- ### Setup Content Delivery
+				- #### Setup Content Delivery with S3
+					- sign in  Amazon console
+					-
