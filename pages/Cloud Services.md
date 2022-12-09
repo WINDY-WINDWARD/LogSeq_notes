@@ -23,4 +23,5 @@
 					- DNS routes the request to the nearest cloudfront edge location
 					- At the edge location, cloudfront checks its cache for the file and returns the file.
 						- Cloudfront compares the request with the specifications and forwards to the applicable origin server
-						-
+						- origin server sends the file back to edge server
+						- as soon as the first bit arrives from the origin server the server starts forwarding the file to the user.
