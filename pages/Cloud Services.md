@@ -6,4 +6,7 @@
 				- Improve page load speed
 				- handle high traffic loads
 				- Block spammers, scrapers and other bad bots
-				- Localize coverage
+				- Localize coverage without the cost
+				- reduce bandwidth  consumption
+				- balance between multiple servers
+				- protect your websites
