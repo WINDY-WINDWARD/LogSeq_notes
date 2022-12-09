@@ -30,4 +30,5 @@
 					- sign in  Amazon console
 					- Upload s3 and choose every permission as public
 					- create a cloudfront web distribution using following steps
-					-
+						- choose cloudfront from services menu aws console
+						- click get started button in the web section of select deli
