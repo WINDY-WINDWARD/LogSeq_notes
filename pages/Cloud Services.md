@@ -22,4 +22,5 @@
 					- user accesses website and requests to download a image
 					- DNS routes the request to the nearest cloudfront edge location
 					- At the edge location, cloudfront checks its cache for the file and returns the file.
-						- Cloudfront compares the request with the specifications and forwards to the applicable
+						- Cloudfront compares the request with the specifications and forwards to the applicable origin server
+						-
