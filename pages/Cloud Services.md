@@ -3,4 +3,7 @@
 		- CDN's are transparent backbones of the internet in charge of content delivery. It is primarily used to deliver static content.
 			- CDN stores the cached content in multiple geographical locations called as point of presence or edge servers.
 			- ### Advantages of CDN
-				-
+				- Improve page load speed
+				- handle high traffic loads
+				- Block spammers, scrapers and other bad bots
+				- Localize coverage
