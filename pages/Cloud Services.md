@@ -37,4 +37,4 @@
 						- Distribution settings page opens.  fill the details as per requirements and click create distribution button
 						- Status column changes from in progress to deployed.
 						- Enable distribution by selecting enable. (done)
-					-
+				-
