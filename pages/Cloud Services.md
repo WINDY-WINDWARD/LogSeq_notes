@@ -28,4 +28,6 @@
 					- The file will be now stored in the cache server for 24 hours or the set time in the file header
 				- #### Setup Content Delivery with S3
 					- sign in  Amazon console
+					- Upload s3 and choose every permission as public
+					- create a cloudfront web distribution using following steps
 					-
