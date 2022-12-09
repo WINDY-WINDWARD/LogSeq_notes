@@ -11,8 +11,9 @@
 				- balance between multiple servers
 				- protect your websites from DDOS attacks
 				- secure your application
-			- ### CloudFront
+			- ### CloudFront (AWS CDN service)
 				- Fast broad network of edge locations and cloud-front caches copies of content close to the end users help reduce latency
 				- can be used with other AWS services.
 				- it is cost effective.
+				-
 				-
