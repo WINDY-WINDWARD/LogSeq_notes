@@ -1,0 +1,4 @@
+- # Episode in RL
+	- reinforcement learning, an episode refers to a complete sequence of interactions between an agent and an environment. An episode begins when the agent first interacts with the environment, and it ends when the environment reaches a terminal state or when a predetermined number of steps have been taken.
+	- During an episode, the agent takes actions based on its current state and receives rewards based on its actions. The goal of the agent is typically to maximize the cumulative reward it receives over the course of an episode.
+	- Episodes are used to structure the training process in reinforcement learning. The agent typically learns by interacting with the environment through a series of episodes, and its performance is evaluated based on the total reward it receives over the course of each episode.
