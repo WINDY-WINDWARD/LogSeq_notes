@@ -22,3 +22,8 @@
 	  state, reward, done, _ = env.step(0)
 	  
 	  ```
+	- In this example, the `env.step(0)` method takes a step in the environment by applying the action `0`
+	- (e.g., moving left) and returns the new state, reward, and a boolean 
+	  flag indicating whether the episode is over. The agent can then use this
+	   information to update its internal state and make a decision about its 
+	  next action.
