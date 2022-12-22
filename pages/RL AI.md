@@ -6,4 +6,19 @@
 - # Next Observation in RL
 	- the array returned by the _next_observation() method is used as the observation or state of the environment. The observation is passed to the agent as input and is used to determine the agent's next action.
 -
-- Step
+- # Step
+	- reinforcement learning, a step refers to a single time step in an episode, during which the agent takes an action and the environment transitions to a new state and provides a reward.
+	- In the `gym` library, the `step()` method of an environment is used to advance the environment by one step and return the new state, reward, and other information to the agent.
+	- ```
+	  import gym
+	  
+	  # Create the environment
+	  env = gym.make("MountainCar-v0")
+	  
+	  # Reset the environment
+	  state = env.reset()
+	  
+	  # Take a step in the environment
+	  state, reward, done, _ = env.step(0)
+	  
+	  ```
