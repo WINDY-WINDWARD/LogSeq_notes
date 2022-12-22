@@ -27,3 +27,11 @@
 	  flag indicating whether the episode is over. The agent can then use this
 	   information to update its internal state and make a decision about its 
 	  next action.
+- # Normalize Data
+	- Normalizing data means scaling the data so that it has a mean of zero and a standard deviation of one. This process is often used to standardize the range and distribution of the data, which can make it easier to compare and analyze.
+	  
+	  There are several ways to normalize data, depending on the type and distribution of the data. Some common methods include:
+	- **Min-max normalization:** This method scales the data to a fixed range, usually between 0 and 1. To normalize the data, you subtract the minimum value from each data point and divide the result by the range (i.e., the difference between the minimum and maximum values).
+	- **Z-score normalization:** This method scales the data based on the mean and standard deviation of the data. To normalize the data, you subtract the mean from each data point and divide the result by the standard deviation.
+	- **Decimal scaling:**  This method scales the data by multiplying it by a power of 10 and rounding to the nearest integer. This can be useful for data with a wide range of values, such as financial data.
+	- Normalizing the data can be useful in machine learning and data analysis because it can help to remove the effects of scale and bias from the data. It can also help to stabilize the learning algorithms and improve the performance of the model.
