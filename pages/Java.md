@@ -175,4 +175,6 @@
 			- **application:**ServletContext
 			- **session:**HttpSession
 			- **pageContext:**PageContext
-			- **page
+			- **page:** Object
+			- **exception:** Throwable
+			-
