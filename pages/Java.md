@@ -80,4 +80,4 @@
 		- Type 4:  Pure Java / Thin Driver
 		-
 - # JSP UNIT 5
-	-
+	- for JSP Page, WEB.xml file
