@@ -84,5 +84,6 @@
 		- for JSP Page, WEB.xml file need not be configured
 		- presenting the data is very fast
 		- modifications in jsp are directly reflected
-		-
+		- allows html, text and java code
+	-
 	-
