@@ -154,3 +154,6 @@
 			  ```
 		- ### JSP Expression Tag
 			- expression Tag is written to the output stream of the response.
+			- used to print the values of variable method
+			- ```
+			  ```
