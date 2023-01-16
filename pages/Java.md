@@ -166,4 +166,4 @@
 			  </html>
 			  ```
 		- ### SCRIPTLET VS DECLARATION Tag
-			-
+			- @@html: <table><table>@@
