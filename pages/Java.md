@@ -92,5 +92,7 @@
 	- ## JSP scripting elements
 		- ### JSP declaration Tag
 			- used to declare fields and methods.
-			- code written inside the jsp declaration tag is placed outside the service() method of the auto
+			- code written inside the jsp declaration tag is placed outside the service() method of the auto generated servlet.
+			- ```
+			  ```
 	-
