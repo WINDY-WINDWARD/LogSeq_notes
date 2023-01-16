@@ -165,3 +165,5 @@
 			  </body>
 			  </html>
 			  ```
+		- ### SCRIPTLET VS DECLARATION Tag
+			-
