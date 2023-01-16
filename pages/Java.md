@@ -89,5 +89,7 @@
 		- ![image.png](../assets/image_1673845454873_0.png)
 	- ## Page Interface
 		- #TODO
-	- JSP scripting
+	- ## JSP scripting elements
+		- ### JSP declaration Tag
+			-
 	-
