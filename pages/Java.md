@@ -127,4 +127,29 @@
 			  </html>
 			  ```
 			- ```
+			  //Example to print user-name
+			  
+			  //Home.html
+			  
+			  <html>
+			  <body>
+			  <form action="welcome.jsp">
+			  <input type="text" name="uname">
+			  <input type="submit" value="go"><br/>
+			  </form>
+			  </body>
+			  </html>
+			  
+			  //Welcome.jsp
+			  
+			  <html>
+			  <body>
+			  <%
+			  String name=request.getParameter("uname");
+			  out.print("welcome "+name);
+			  %>
+			  </form>
+			  </body>
+			  </html>
 			  ```
+		-
