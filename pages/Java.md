@@ -115,5 +115,6 @@
 			  </body>
 			  </html>
 			  ```
-		- JSP Scriptlet Tg
+		- ### JSP Scriptlet Tag
+			- is used to execute java source code in jsp
 -
