@@ -166,5 +166,5 @@
 			  </html>
 			  ```
 		- ### SCRIPTLET VS DECLARATION Tag
-			- @@html: <h1> heyyyy</h1>@@
+			- @@html: @@
 			-
