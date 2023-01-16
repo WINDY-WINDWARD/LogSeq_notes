@@ -156,4 +156,12 @@
 			- expression Tag is written to the output stream of the response.
 			- used to print the values of variable method
 			- ```
+			  Example to print user-name:
+			  Welcome.jsp
+			  
+			  <html>
+			  <body>
+			  <%= "Welcome "+request.getParameter("uname") %>
+			  </body>
+			  </html>
 			  ```
