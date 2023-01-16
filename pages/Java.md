@@ -168,4 +168,5 @@
 		- ### SCRIPTLET VS DECLARATION Tag
 			- @@html: <table><thead><tr><th>JSP Scriptlet Tag</th><th>JSP Declaration Tag</th></tr></thead><tbody><tr><td>The JSP scriptlet tag can only declare variables not methods</td><td>JSP declaration tag can declare variables as well as methods</td></tr><tr><td>declaration of scriptlet tag is placed inside the _jspService() Method</td><td>declaration of jsp declaration tag is placed outside the _jspService() method.<br</td</tr></tbody></table>@@
 		- ## JSP Implicit Objects
-			- <ins>OUT:</ins>
+			- **out:** JSP Writer
+			- **request:**
