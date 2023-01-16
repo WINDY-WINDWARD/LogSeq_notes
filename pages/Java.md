@@ -94,5 +94,13 @@
 			- used to declare fields and methods.
 			- code written inside the jsp declaration tag is placed outside the service() method of the auto generated servlet.
 			- ```
+			  //EXAMPLE
+			  
+			  <html>
+			  <body>
+			  <%! int data=50; %>
+			  </body>
+			  </html>
 			  ```
 	-
+-
