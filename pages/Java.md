@@ -118,5 +118,12 @@
 		- ### JSP Scriptlet Tag
 			- is used to execute java source code in jsp
 			- ```
+			  //Example
+			  
+			  <html>
+			  <body>
+			  <% out.print("welcome to jsp"); %>
+			  </body>
+			  </html>
 			  ```
 -
