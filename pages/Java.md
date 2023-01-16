@@ -85,5 +85,7 @@
 		- presenting the data is very fast
 		- modifications in jsp are directly reflected
 		- allows html, text and java code
-	-
+	- JSP Life Cycle
+		- ![image.png](../assets/image_1673845454873_0.png)
+		-
 	-
